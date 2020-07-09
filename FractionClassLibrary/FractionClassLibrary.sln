@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPark.Fraction", "HPark.Fraction\HPark.Fraction.csproj", "{D50D66ED-0732-4369-BE39-46D16FF09959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPark.Fraction.Usages", "HPark.Fraction.Usages\HPark.Fraction.Usages.csproj", "{0ED8771A-B554-4A33-B09E-0B8CC177D832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50D66ED-0732-4369-BE39-46D16FF09959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50D66ED-0732-4369-BE39-46D16FF09959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50D66ED-0732-4369-BE39-46D16FF09959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50D66ED-0732-4369-BE39-46D16FF09959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED8771A-B554-4A33-B09E-0B8CC177D832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED8771A-B554-4A33-B09E-0B8CC177D832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED8771A-B554-4A33-B09E-0B8CC177D832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED8771A-B554-4A33-B09E-0B8CC177D832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36DB2DE1-BF6C-49CF-ABE7-11075AF3D789}
+	EndGlobalSection
+EndGlobal
