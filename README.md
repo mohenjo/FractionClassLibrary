@@ -1,6 +1,6 @@
 # 분수 클래스 | Fraction Class
 
-*C# 코드를 위한 분수 클래스 라이브러리입니다.*
+* C# 분수 계산을 위한 .NET framework 클래스 라이브러리(*.dll)*
 
 
 
